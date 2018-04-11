@@ -1,5 +1,7 @@
 # type-ahead
 
+![app screenshot](https://i.imgur.com/UhQ9eL2.png)
+
 Day/Lesson #6 from [Wes Bos'](http://wesbos.com/) free [JavaScript 30](https://javascript30.com/) course where you use vanilla JS
 
 This lesson was challenging regarding trying to get the commas into the population property, I had to end up stealing Wes' solution
